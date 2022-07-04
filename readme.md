@@ -1,5 +1,11 @@
 # About me
 I'm IT specialist who loves flutter, UI/UX design, visual art and music. I have some experience in web and flutter. Pls stay awhile and take a look at my work if you are interested.
+
+**Currently looking for work**
+
+Languages: Russian, English
+
+*flutter, figma, intl, localization, git, adaptive design, ui design, json, async, future, setstate, Riverpod, ObjectBox, SharedPreferences, firebase* 
 <br /><br />
 
 # Flutter
@@ -43,3 +49,15 @@ An adaptive shell for the training systems and content. Made in flutter. Source 
 
 https://github.com/Elf80lvl/kos-interface
 
+<br /><br />
+# Design
+![dribble](https://user-images.githubusercontent.com/49438937/177101277-e7452705-5bde-4561-9ee1-d3e6b6c85456.png)
+
+Dribbble: https://dribbble.com/Elf80level
+
+Behance: https://www.behance.net/ablakemailf46f
+<br /><br />
+
+Flutter implementation of the "LoFi", music streaming service (not finished):
+
+https://user-images.githubusercontent.com/49438937/117773426-f6036200-b240-11eb-8429-301e3ee5f4b7.mp4
