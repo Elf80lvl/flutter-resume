@@ -1,4 +1,4 @@
-# About me
+# :memo: About me
 I'm IT specialist who loves flutter, UI/UX design, visual art and music. I have some experience in web and flutter. Pls stay awhile and take a look at my work if you are interested.
 
 ### Looking for work
@@ -17,7 +17,7 @@ telegram: @alrosvm
 email: alrosvm@gmail.com
 <br /><br />
 
-# Flutter
+# :computer: Flutter
 
 ## QR Scanner VM
 ![Screenshot_20220215-154952](https://user-images.githubusercontent.com/49438937/177093482-09cbde39-1bc3-47fe-9780-b8420b413a21.png)
@@ -59,7 +59,7 @@ An adaptive shell for the training systems and content. Made in flutter. Source 
 https://github.com/Elf80lvl/kos-interface
 
 <br /><br />
-# Design
+# :pencil2: Design
 ![dribble](https://user-images.githubusercontent.com/49438937/177101277-e7452705-5bde-4561-9ee1-d3e6b6c85456.png)
 
 Dribbble: https://dribbble.com/Elf80level
@@ -70,3 +70,6 @@ Behance: https://www.behance.net/ablakemailf46f
 Flutter implementation of the "LoFi", music streaming service (not finished):
 
 https://user-images.githubusercontent.com/49438937/117773426-f6036200-b240-11eb-8429-301e3ee5f4b7.mp4
+<br /><br />
+
+:hearts:
