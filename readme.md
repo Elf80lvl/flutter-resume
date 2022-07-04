@@ -1,11 +1,20 @@
 # About me
 I'm IT specialist who loves flutter, UI/UX design, visual art and music. I have some experience in web and flutter. Pls stay awhile and take a look at my work if you are interested.
 
-**Currently looking for work**
+### Looking for work
+Yes. Currently looking for work with flutter and\or UI design
 
-Languages: Russian, English
+### Languages
+Russian, English
+
+### Tags
 
 *flutter, figma, intl, localization, git, adaptive design, ui design, json, async, future, setstate, Riverpod, ObjectBox, SharedPreferences, firebase* 
+
+### Contacts:
+telegram: @alrosvm
+
+email: alrosvm@gmail.com
 <br /><br />
 
 # Flutter
