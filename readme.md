@@ -58,7 +58,6 @@ https://play.google.com/store/apps/details?id=com.vielynmogra.calculator
 
 ## Testing app
 <br /><br />
-## Adaptive design
 https://user-images.githubusercontent.com/49438937/132342897-bc693fa8-dc9f-4444-9af9-c72bfd94c58d.mp4
 
 An adaptive shell for the training systems and content. Made in flutter. 
