@@ -21,10 +21,10 @@ email: alrosvm@gmail.com
 
 # :computer: Flutter
 ## PlayHock!
-Web site and an app designed to make it easier to find co-op matches in the game. UI, flutter, firebase (work in progress).<br />
-![photo_2022-10-29_20-00-12](https://user-images.githubusercontent.com/49438937/198841539-cf3121b3-b28f-47bd-b5a7-93925673674b.jpg)
+![Frame 1](https://user-images.githubusercontent.com/49438937/198842134-c7959a70-eea0-4f27-a899-b999b752af28.png)
 <br />
-![photo_2022-10-29_20-00-08](https://user-images.githubusercontent.com/49438937/198841541-2f8e811d-46d5-4c07-ae5b-d2436e293140.jpg)
+Web site and an app designed to make it easier to find co-op matches in the game. UI, flutter, firebase (work in progress).<br />
+
 
 <br /><br />
 
