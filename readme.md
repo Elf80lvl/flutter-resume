@@ -1,5 +1,7 @@
 # :memo: About me
-I'm IT specialist who loves flutter, UI/UX design, visual art and music. I have some experience in web and flutter. Pls stay awhile and take a look at my work if you are interested.
+### What I do
+Apps and web sites (Flutter)
+UI design (Figma)
 
 ### Looking for work
 Yes. Currently looking for work with flutter and\or UI design
@@ -8,7 +10,6 @@ Yes. Currently looking for work with flutter and\or UI design
 Russian, English
 
 ### Tags
-
 *flutter, figma, intl, localization, git, adaptive design, ui design, json, async, future, setstate, Riverpod, ObjectBox, SharedPreferences, firebase* 
 
 ### Contacts:
@@ -18,6 +19,12 @@ email: alrosvm@gmail.com
 <br /><br />
 
 # :computer: Flutter
+## PlayHock!
+Web site and an app designed to make it easier to find co-op matches in the game. UI, flutter, firebase (work in progress).
+
+
+
+
 
 ## QR Scanner VM
 ![Screenshot_20220215-154952](https://user-images.githubusercontent.com/49438937/177093482-09cbde39-1bc3-47fe-9780-b8420b413a21.png)
@@ -47,9 +54,6 @@ https://play.google.com/store/apps/details?id=com.vielynmogra.calculator
 <br /><br />
 
 ## Testing app
-![image_processing20220620-5036-7q0dr4-2](https://user-images.githubusercontent.com/49438937/177098652-3d860abe-dcf3-457a-87e4-c7e9e817449b.png)
-Testing app. JSON local data, timer. Made in flutter for Windows and Android.
-
 <br /><br />
 ## Adaptive design
 https://user-images.githubusercontent.com/49438937/132342897-bc693fa8-dc9f-4444-9af9-c72bfd94c58d.mp4
