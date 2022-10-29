@@ -1,6 +1,7 @@
 # :memo: About me
 ### What I do
 Apps and web sites (Flutter)
+<br />
 UI design (Figma)
 
 ### Looking for work
@@ -22,6 +23,9 @@ email: alrosvm@gmail.com
 ## PlayHock!
 Web site and an app designed to make it easier to find co-op matches in the game. UI, flutter, firebase (work in progress).
 
+![photo_2022-10-29_20-00-12](https://user-images.githubusercontent.com/49438937/198841469-48bffae3-e959-4026-b8d6-cb48085ff713.jpg)
+
+![photo_2022-10-29_20-00-08](https://user-images.githubusercontent.com/49438937/198841473-43d62b1d-09b2-4e86-b0ef-dc4007060a37.jpg)
 
 
 
