@@ -21,10 +21,12 @@ email: alrosvm@gmail.com
 
 # :computer: Flutter
 ## PlayHock!
-Web site and an app designed to make it easier to find co-op matches in the game. UI, flutter, firebase (work in progress).
+Web site and an app designed to make it easier to find co-op matches in the game. UI, flutter, firebase (work in progress).<br />
 ![photo_2022-10-29_20-00-12](https://user-images.githubusercontent.com/49438937/198841539-cf3121b3-b28f-47bd-b5a7-93925673674b.jpg)
 <br />
 ![photo_2022-10-29_20-00-08](https://user-images.githubusercontent.com/49438937/198841541-2f8e811d-46d5-4c07-ae5b-d2436e293140.jpg)
+
+<br /><br />
 
 
 ## QR Scanner VM
@@ -59,9 +61,7 @@ https://play.google.com/store/apps/details?id=com.vielynmogra.calculator
 ## Adaptive design
 https://user-images.githubusercontent.com/49438937/132342897-bc693fa8-dc9f-4444-9af9-c72bfd94c58d.mp4
 
-An adaptive shell for the training systems and content. Made in flutter. Source code: 
-
-https://github.com/Elf80lvl/kos-interface
+An adaptive shell for the training systems and content. Made in flutter. 
 
 <br /><br />
 # :pencil2: Design
