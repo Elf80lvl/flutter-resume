@@ -22,7 +22,7 @@ email: alrosvm@gmail.com
 # :computer: Flutter
 ## PlayHock!
 ![Frame 1_sm](https://user-images.githubusercontent.com/49438937/198842194-7783eac5-760c-4f99-bfa6-d4c6e0b28dcf.png)
-<br />
+<br /><br />
 Web site and an app designed to make it easier to find co-op matches in the game. UI, flutter, firebase (work in progress).<br />
 
 
