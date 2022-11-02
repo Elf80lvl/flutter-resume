@@ -11,7 +11,7 @@ Yes. Currently looking for work with flutter and\or UI design
 Russian, English
 
 ### Tags
-*flutter, figma, intl, localization, git, adaptive design, ui design, json, async, future, setstate, Riverpod, ObjectBox, SharedPreferences, firebase* 
+*flutter, figma, intl, localization, git, adaptive design, ui design, json, async, future, stream, setstate, Riverpod, ObjectBox, SharedPreferences, firebase,* 
 
 ### Contacts:
 telegram: @alrosvm
