@@ -55,8 +55,8 @@ https://play.google.com/store/apps/details?id=com.vielyn.wiki_random
 Calculator. Dark and light themes, history of calculations. Made in flutter. Published on play store:
 
 https://play.google.com/store/apps/details?id=com.vielynmogra.calculator
-<br /><br />
 
+<br /><br /><br />
 ## Adaptive
 <br />
 (https://user-images.githubusercontent.com/49438937/132342897-bc693fa8-dc9f-4444-9af9-c72bfd94c58d.mp4)
