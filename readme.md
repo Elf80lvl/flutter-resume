@@ -14,7 +14,7 @@ Russian, English
 *flutter, figma, intl, localization, git, adaptive design, ui design, json, async, future, stream, setstate, Riverpod, ObjectBox, SharedPreferences, firebase,* 
 
 ### Contacts:
-telegram: @elfinen
+telegram: [@elfinen](https://t.me/elfinen)
 
 email: alrosvm@gmail.com
 <br /><br />
