@@ -65,7 +65,7 @@ https://play.google.com/store/apps/details?id=com.vielynmogra.calculator
 An adaptive shell for the training systems and content. Made in flutter. 
 
 <br /><br />
-# :pencil2: Design
+# :pencil2: UI Design
 ![dribble](https://user-images.githubusercontent.com/49438937/177101277-e7452705-5bde-4561-9ee1-d3e6b6c85456.png)
 
 Dribbble: https://dribbble.com/Elf80level
