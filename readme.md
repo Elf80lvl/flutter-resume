@@ -1,8 +1,14 @@
 # :memo: About me
+
+Front-end developer and a UI designer. I have experience in creating projects (web, android) for a big company. If you want to make an app or a website with a modern responsive design and a codebase that can be used to build apps for all platforms, please contact me.
+<br /><br />
+
+
 ### What I do
-Apps and web sites (Flutter)
+- UI design with knowledge of what works and what doesn't in the field of user experience
+<br /><br />
+- Apps and web sites with adaptive design (mobile, desktop) using cross-platform codebase in flutter and dart.
 <br />
-UI design (Figma)
 
 ### Looking for work
 Yes. Currently looking for work with flutter and\or UI design
