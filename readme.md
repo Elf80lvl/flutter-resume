@@ -17,7 +17,7 @@ Yes. Currently looking for work with flutter and\or UI design
 Russian, English
 
 ### Tags
-*flutter, figma, intl, localization, git, adaptive design, ui design, json, async, future, stream, setstate, Riverpod, ObjectBox, SharedPreferences, firebase,* 
+*flutter, figma, rive, intl, localization, git, adaptive design, ui design, json, async, future, stream, setstate, Riverpod, ObjectBox, SharedPreferences, firebase,* 
 
 ### Contacts:
 telegram: [@elfinen](https://t.me/elfinen)
@@ -28,10 +28,18 @@ email: alrosvm@gmail.com
 
 # :computer: Flutter
 ## PlayHock!
-![Frame 1_sm](https://user-images.githubusercontent.com/49438937/198842194-7783eac5-760c-4f99-bfa6-d4c6e0b28dcf.png)
+![screenshots3](https://user-images.githubusercontent.com/49438937/202428117-826901fb-c9c1-4f39-b14a-b111e1f7d6cb.png)
+
 <br /><br />
-Web site and an app designed to make it easier to find co-op matches in the game. UI, flutter, firebase (work in progress).<br />
-https://hockplay-bdd28.web.app/#/
+Web site and an app designed to make it easier to find co-op matches in the game.
+<br />
+- UI design (Figma)<br />
+- Front-end (Flutter)<br />
+- Mobile and Desktop layouts<br />
+- Backend (Firebase)<br />
+- Animations (Rive)<br /><br />
+video demo: https://youtube.com/shorts/Det-Ianryu8?feature=share <br />
+web app: https://hockplay-bdd28.web.app/#/
 
 
 <br /><br />
