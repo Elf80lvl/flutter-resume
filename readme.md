@@ -6,7 +6,7 @@ Front-end developer and a UI designer. I have experience in creating projects (w
 
 ### What I do
 - UI design with knowledge of what works and what doesn't in the field of user experience
-<br /><br />
+
 - Apps and web sites with adaptive design (mobile, desktop) using cross-platform codebase in flutter and dart.
 <br />
 
