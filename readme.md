@@ -1,6 +1,6 @@
 # :memo: About me
 
-Front-end developer and a UI designer. I have experience in creating projects (web, android) for a big company. If you want to make an app or a website with a modern responsive design and a codebase that can be used to build apps for all platforms, please contact me.
+Front-end flutter developer and a UI designer. I have experience in creating projects (web, android) for a big company. If you want to make an app or a website with a modern responsive design and a codebase that can be used to build apps for all platforms, please contact me.
 <br /><br />
 
 
@@ -17,7 +17,7 @@ Yes. Currently looking for work with flutter and\or UI design
 Russian, English
 
 ### Tags
-*flutter, figma, rive, intl, localization, git, adaptive design, ui design, json, async, future, stream, setstate, Riverpod, ObjectBox, SharedPreferences, firebase,* 
+*flutter, figma, bloc, rive, intl, localization, git, adaptive design, ui design, json, async, future, stream, setstate, Riverpod, ObjectBox, SharedPreferences, firebase,* 
 
 ### Contacts:
 telegram: [@elfinen](https://t.me/elfinen)
@@ -43,6 +43,28 @@ web app: https://hockplay-bdd28.web.app/#/
 
 
 <br /><br />
+
+## Fake HTTP Shop
+
+![fakeHttpMobile](https://user-images.githubusercontent.com/49438937/216586316-2bd77355-af39-41d5-8ddc-bc95e8fd916d.png)
+
+
+app features:<br />
+    * uses bloc 8<br />
+    * rest api (http, async)<br />
+    * localization (+ switcher)<br />
+    * dark and light themes (+ switcher)<br />
+    * mobile and desktop layouts<br />
+    * custom icons<br />
+    * null-safety<br />
+    <br />
+source code: https://github.com/Elf80lvl/flutter-FakeHttpShop
+
+
+
+
+<br /><br />
+
 
 
 ## QR Scanner VM
